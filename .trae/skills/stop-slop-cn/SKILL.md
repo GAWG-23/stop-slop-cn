@@ -1,5 +1,5 @@
 ---
-name: "humanize-chinese-text"
+name: "stop-slop-cn"
 description: "去除AI生成中文文本的「AI味」，改写为符合中文母语者自然表达习惯的文字。当用户要求润色、改写、去AI味、让人话、更像人写的时触发。"
 ---
 
