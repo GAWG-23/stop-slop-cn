@@ -42,13 +42,13 @@
 
 开篇不说"在当今……的背景下"。强调不说"毋庸置疑""显而易见"。过渡不说"首先其次最后"。互联网黑话——"赋能""抓手""闭环""颗粒度"——全换掉。
 
-> 详细替换表见 [references/phrases.md](.trae/skills/stop-slop-cn/references/phrases.md)
+> 详细替换表见 [references/phrases.md](references/phrases.md)
 
 ### 2. 打破模板结构
 
 不做"不是A，而是B"的虚假反转。不做"表面看是A，实际上是B"的故作深刻。不凑三个四字短语的排比。不每段都做总-分-总小结。
 
-> 完整结构清单见 [references/structures.md](.trae/skills/stop-slop-cn/references/structures.md)
+> 完整结构清单见 [references/structures.md](references/structures.md)
 
 ### 3. 动词直接上
 
@@ -154,7 +154,7 @@
 >
 > 三个优化并行推进，预计两个月。
 
-> 更多示例（邮件、产品说明、需求文档、工作汇报）见 [references/examples.md](.trae/skills/stop-slop-cn/references/examples.md)
+> 更多示例（邮件、产品说明、需求文档、工作汇报）见 [references/examples.md](references/examples.md)
 
 ---
 
@@ -162,12 +162,11 @@
 
 ```
 stop-slop-cn/
-├── .trae/skills/stop-slop-cn/
-│   ├── SKILL.md                    # 核心：8 条规则 + 速查清单 + 评分系统
-│   └── references/
-│       ├── phrases.md              # 要删的词和套话（开篇废话/黑话/泛化词/退路词）
-│       ├── structures.md           # 要避免的结构（二元对立/排比/躲主语/节奏问题）
-│       └── examples.md             # 6 组改写对比（方案/技术/邮件/产品/需求/汇报）
+├── SKILL.md                    # 核心：8 条规则 + 速查清单 + 评分系统
+├── references/
+│   ├── phrases.md              # 要删的词和套话（开篇废话/黑话/泛化词/退路词）
+│   ├── structures.md           # 要避免的结构（二元对立/排比/躲主语/节奏问题）
+│   └── examples.md             # 6 组改写对比（方案/技术/邮件/产品/需求/汇报）
 ├── README.md
 └── LICENSE
 ```
@@ -178,7 +177,7 @@ stop-slop-cn/
 
 ### Trae / Claude Code
 
-将 `.trae/skills/stop-slop-cn/` 添加到你的 skills 目录即可。
+将整个仓库克隆到本地，或直接将 `SKILL.md` 和 `references/` 添加到你的 skills 目录即可。
 
 ### 其他 AI 工具
 
